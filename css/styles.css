@@ -616,5 +616,21 @@ background-color: #404bbf;
   display: flex;
 }
 .label-footer{
+}
+.input-footer{
   gap: 24px;
+  width: 264px;
+  height: 40px;
+  border: 1px solid #FFFFFF;
+  background-color: transparent;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  padding-left: 16px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  color: #FFFFFF;
+}
+.input-footer ::placeholder{
+  color: #FFFFFF;
 }
