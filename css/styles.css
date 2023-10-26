@@ -604,3 +604,17 @@ background-color: #404bbf;
 .link-active::after{
   width: 100%;
 }
+.paragraph-footer-three{
+  margin-bottom: 16px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.footer-form{
+  display: flex;
+}
+.label-footer{
+  gap: 24px;
+}
