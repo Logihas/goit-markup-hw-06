@@ -614,8 +614,7 @@ background-color: #404bbf;
 }
 .footer-form{
   display: flex;
-}
-.label-footer{
+  gap: 24px;
 }
 .input-footer{
   width: 264px;
@@ -657,3 +656,4 @@ background-color: #404bbf;
 .div-footer-three{
   margin-left: 80px;
 }
+
