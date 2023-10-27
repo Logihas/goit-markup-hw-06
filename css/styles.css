@@ -693,7 +693,7 @@ background-color: #404bbf;
 .input-modal:focus{
   border-color: #4D5AE5;
 }
-.input-modal:focus .svg-modal{
+.svg-modal:focus{
   fill: #4D5AE5;
 }
 .svg-modal{
