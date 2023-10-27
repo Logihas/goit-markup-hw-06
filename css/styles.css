@@ -724,3 +724,6 @@ background-color: #404bbf;
 .textarea-modal:focus{
   border-color: #4D5AE5;
 }
+.div-modal-fife{
+  margin-bottom: 24px;
+}
