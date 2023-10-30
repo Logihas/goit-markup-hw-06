@@ -744,6 +744,7 @@ background-color: #404bbf;
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 8px;
 }
 .link-modal{
   color: var(--color-logo);
